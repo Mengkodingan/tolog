@@ -13,10 +13,10 @@ you can use <b>TEXT</b> for bolding the text
 */
 toLog(1, "text", undefined);
 toLog(3, "text", "test");
-toLog(3, "<b>text</b>")
+toLog(2, "aaa <b>text</b>")
 ```
 
 <div align="center">
-    <a href="https://imgbb.com/"><img src="https://i.ibb.co/MRQfB3B/image.png" alt="image" border="0"></a>
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/DfCkk2X/image.png" alt="image" border="0"></a>
 </div>
 
