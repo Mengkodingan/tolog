@@ -1,6 +1,6 @@
 {
   "name": "@mengkodingan/tolog",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "something useless",
   "main": "index.js",
   "scripts": {
