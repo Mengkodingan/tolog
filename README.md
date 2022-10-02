@@ -8,9 +8,12 @@ type: 1 = info,
       2 = success,
       3 = warning,
       4 = error
+      
+you can use <b>TEXT</b> for bolding the text
 */
 toLog(1, "text", undefined);
 toLog(3, "text", "test");
+toLog(3, "<b>text</b>")
 ```
 
 <div align="center">
